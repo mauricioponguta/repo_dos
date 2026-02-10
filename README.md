@@ -28,7 +28,8 @@ Breve descripcion
 ## Intalacion 
 pasos para instalar el proyecto localmente 
 ```bash
-git clone 
+git clone https://github.com/mauricioponguta/repo_dos.git
+cd proyecto
 
 
 
