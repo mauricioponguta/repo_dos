@@ -1,6 +1,8 @@
 # Proyecto de uso de herramienta GIT con contibuyentes
 Breve descripcion
 Mauricio
+linea para generar conflicto
+
 ----
 ## Tabla de contenidos 
 
