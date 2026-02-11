@@ -41,7 +41,7 @@ cd..
 ## Video tutorial
 
 [![Click para video](asset/imagen.png)](https://youtu.be/hmoARYLKMzw?si=ewgCLZaKvMbrl9m-)
-[![Click para video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg2PWrY_5mkISXy_GqXWUYPbglvpL6FSUgg&s)](https://youtu.be/hmoARYLKMzw?si=ewgCLZaKvMbrl9m-)
+[![Click para video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxF7CmiH4KYLUSVzqfA5Y4xatbYlEPBmc2Sg&s)](https://youtu.be/hmoARYLKMzw?si=ewgCLZaKvMbrl9m-)
 
 
 
