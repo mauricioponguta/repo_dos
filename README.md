@@ -1,5 +1,6 @@
 # Proyecto de uso de herramienta GIT con contibuyentes
 linea para generar conflictos rama2
+linea para generar conflicto
 
 ----
 ## Tabla de contenidos 
