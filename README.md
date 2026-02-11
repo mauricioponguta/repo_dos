@@ -1,6 +1,6 @@
 # Proyecto de uso de herramienta GIT con contibuyentes
 Breve descripcion
-
+Mauricio
 ----
 ## Tabla de contenidos 
 
