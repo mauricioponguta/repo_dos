@@ -1,5 +1,5 @@
 # Proyecto de uso de herramienta GIT con contibuyentes
-Breve descripcion
+linea para generar conflicto
 
 ----
 ## Tabla de contenidos 
