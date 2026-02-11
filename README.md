@@ -33,6 +33,14 @@ pasos para instalar el proyecto localmente
 ```bash
 git clone https://github.com/mauricioponguta/repo_dos.git
 cd proyecto
+cd.. 
+
+```
+---
+
+## Video tutorial
+
+[![Click para video](asset/imagen.png)](https://youtu.be/hmoARYLKMzw?si=ewgCLZaKvMbrl9m-)
 
 
 
