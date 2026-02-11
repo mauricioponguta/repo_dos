@@ -1,6 +1,7 @@
 # Proyecto de uso de herramienta GIT con contibuyentes
 Breve descripcion
 Mauricio
+linea para generar conflictos rama2
 linea para generar conflicto
 
 ----
